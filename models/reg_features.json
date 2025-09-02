@@ -1,1 +1,1 @@
-["month", "day", "country_of_user", "model_photography", "page_number", "unique_product_models", "category_1_clicks", "category_2_clicks", "category_3_clicks", "num_revisits"]
+["month", "day", "country_of_user", "model_photography", "page_number", "unique_product_models", "blouses_category_clicks", "skirts_category_clicks", "num_revisits"]
